@@ -29,6 +29,13 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">When Charles the First Was King</dc:title>
 		<meta property="file-as" refines="#title">When Charles the First Was King</meta>
+		<meta property="title-type" refines="#title">main</meta>
+		<dc:title id="subtitle">A Romance of Osgoldcross, 1632–1649</dc:title>
+		<meta property="file-as" refines="#subtitle">Romance of Osgoldcross, 1632–1649, A</meta>
+		<meta property="title-type" refines="#subtitle">subtitle</meta>
+		<dc:title id="fulltitle">When Charles the First Was King: A Romance of Osgoldcross, 1632–1649</dc:title>
+		<meta property="file-as" refines="#fulltitle">When Charles the First Was King</meta>
+		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<dc:subject id="subject-1">Historical fiction</dc:subject>
 		<dc:subject id="subject-2">Great Britain--History--Charles I, 1625-1649</dc:subject>
 		<dc:subject id="subject-3">Romance fiction, English</dc:subject>
